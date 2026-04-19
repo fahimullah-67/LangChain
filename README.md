@@ -13,6 +13,6 @@ i'm working on lanchain
 ![](https://github-profile-trophy.vercel.app/?username=fahimullah-67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fahimullah-67&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=fahimullah-67&icon=2&color=4)](https://fahimullah-portfolio.vercel.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
