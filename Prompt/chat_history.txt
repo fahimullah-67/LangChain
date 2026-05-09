@@ -1,0 +1,2 @@
+HumanMessage(content="I want to request a order of my refound for my order num #72472864")
+AIMessage(content="your refound for order #72472864 has been processed and should be reflected in your account within 5-7 business days.")
