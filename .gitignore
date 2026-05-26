@@ -51,6 +51,12 @@ coverage.xml
 .pytest_cache/
 cover/
 
+
+#file
+AI.pdf
+*.pdf
+*.pdf*
+
 # Translations
 *.mo
 *.pot
